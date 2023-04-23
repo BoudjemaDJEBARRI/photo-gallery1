@@ -16,6 +16,5 @@ export class Tab2Page {
 
   addPhotoToGallery() {
     this.photoService.addNewToGallery();
-
   }
 }
